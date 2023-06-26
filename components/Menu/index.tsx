@@ -91,14 +91,19 @@ const Menu = ({ children }: { children: React.ReactNode }) => {
                       })}
                   </ButtonGroup>
                   {/* <MainButton /> */}
-                  <Button
-                    variant="brand"
-                    px='36px'
-                    py='12px'
-                    borderRadius='999px'
+                  <Link
+                    href='https://astify-frontend.vercel.app/'
+                    legacyBehavior
                   >
-                    Trade
-                  </Button>
+                    <Button
+                      variant="brand"
+                      px='36px'
+                      py='12px'
+                      borderRadius='999px'
+                    >
+                      Trade
+                    </Button>
+                  </Link>
                 </>
               )}
             </HStack>

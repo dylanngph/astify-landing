@@ -36,7 +36,7 @@ const About = () => {
   ];
 
   return (
-    <Container maxW="container.xxl" my={{ base: "70px", lg: "279px" }}>
+    <Container maxW="container.xxl" mt={{ base: "70px", lg: "200px" }}>
       <Stack
         direction={{ base: "column", lg: "row" }}
         gap="24px"

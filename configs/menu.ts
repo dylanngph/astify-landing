@@ -7,18 +7,18 @@ export const menu = [
     },
     {
         title: 'Exchange',
-        href: '/exchange'
+        href: '#'
     },
     {
         title: 'Pricing',
-        href: '/pricing'
+        href: '#'
     },
     {
         title: 'Company',
-        href: '/company'
+        href: '#'
     },
     {
         title: 'News',
-        href: '/news'
+        href: '#'
     }
 ]

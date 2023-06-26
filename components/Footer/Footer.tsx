@@ -80,7 +80,7 @@ const Footer = () => {
                 </VStack>
                 </VStack>
                 <VStack align="start" spacing={6}>
-                    <Text fontSize={16} fontWeight={500}>
+                    <Text fontSize={16} fontWeight={600}>
                         Submit for updates.
                     </Text>
                     <Text color='base.neutral.5' fontSize={14}>
